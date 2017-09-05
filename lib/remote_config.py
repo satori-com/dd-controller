@@ -24,6 +24,7 @@ class RemoteConfig(object):
                              "overall_state_modified"]
 
     SCREENBOARD_IGNORED_KEYS = ["created",
+                                "created_by",
                                 "id",
                                 "original_title",
                                 "title_edited",
