@@ -18,6 +18,7 @@ class RemoteConfig(object):
                              "creator",
                              "deleted",
                              "id",
+                             "matching_downtimes",
                              "modified",
                              "org_id",
                              "overall_state",
